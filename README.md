@@ -4,7 +4,7 @@
   </a>
 </p>
 
-https://adnands.github.io/blaststorm-build/  
+https://adnanmula.github.io/blaststorm-build/  
 https://gamejolt.com/games/blaststorm/261435  
 https://play.google.com/store/apps/details?id=com.demigrantsoft.bst  
 
